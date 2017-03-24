@@ -45,7 +45,7 @@ Investing in high needs, high aspiration first generation communities to crete S
 ## People
 List the people working on your project here, like this:
 - Andres Henriquez, [AndresHenriquez@nysci.org ](https://github.com/AHenriquez96)
-- Catherine Cramer, [ccramer@nysc.org
+- Catherine Cramer, ccramer@nysc.org
 
 ## Community Segments 
 Your community segments go here
