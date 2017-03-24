@@ -33,19 +33,19 @@ First things first -- here's your to-do list:
 
 - [ ] Delete this to-do list.
 
-## [[Your project name goes here]]
-Your organization name goes here
+## Queens 20/20
+
 
 ## Purpose
-Your purpose goes here
+Collborate with our local community to create a rich ecosystem of STEM learning opportunities that first-generation families value and embrace.
 
 ## Description 
-Your project description goes here
+Investing in high needs, high aspiration first generation communities to crete STEM college and career opportunities.
 
 ## People
 List the people working on your project here, like this:
-- Katherine McConachie, [@kitsandkats](https://github.com/kitsandkats)
-- Philipp Schmidt, [@1l2p](https://github.com/1l2p)
+- Andres Henriquez, [AndresHenriquez@nysci.org ](https://github.com/AHenriquez96)
+- Catherine Cramer, [ccramer@nysc.org
 
 ## Community Segments 
 Your community segments go here
@@ -53,4 +53,4 @@ Your community segments go here
   Your early adopters go here
 
 ## Open Advantage
-Your open advantage goes here
+Queens 20/20 seeks to disrupt concentrated poverty and our centerpiece strategy is to leverage the New York Hall of Science as a tusted community hub for creative STEM learning.
